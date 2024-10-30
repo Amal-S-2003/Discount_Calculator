@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(/src/assets/images/calc.jpg);
+    background-size: cover;
+
+}
+
+.box {
+    background: rgba(153, 152, 152, 0.801);
+    padding: 30px;
+    border-radius: 20px;
+}
