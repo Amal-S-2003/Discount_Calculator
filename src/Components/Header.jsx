@@ -12,7 +12,7 @@ function Header() {
           >
             <img
               alt=""
-              src="/src/assets/images/image.png"
+              src="./src/assets/images/image.png"
               width="35"
               height="35"
               className="d-inline-block align-top"
